@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.nav_list{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    border: none;
+    background: black;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 8px;
+}
+ul{
+    list-style: none;
+}
+.text{
+    margin-top: 100px;
+    margin-bottom: 69px;
+    text-align: center;
+    h1{
+        font-weight: 100;
+    }
+    span{
+        font-weight: 900;
+    }
+}
+.my_skills{
+    display: flex;
+    flex-direction: column;
+}
+.baland{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.pas{
+      display: flex;
+      margin-top: 60px;
+    justify-content: center;
+    gap: 20px;
+}
+.five_card{
+ text-align: center;
+    border-radius: 4px;
+    padding-top: 29px;
+    border: solid;
+    width: 186px;
+    height: 186px;
+    background: black;
+    color: white;
+}
+.five_cards{
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 29px;
+    border: solid;
+    width: 186px;
+    height: 186px;
+    h1{
+        padding-top: 10px;
+    }
+}
