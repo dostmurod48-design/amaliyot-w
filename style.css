@@ -82,3 +82,63 @@ ul{
         padding-top: 10px;
     }
 }
+main{
+    background: black;
+
+}
+.texttt{
+     color: white;
+        font-weight: 100;
+        text-align: start;
+        font-size: 9px;
+}
+.textt{
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+    h1{
+        font-weight: 100;
+    }
+    span{
+        font-weight: 900;
+    }
+}
+.orovchii{
+
+    align-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.google{
+    
+    border-radius: 5px;
+    border: solid gray;
+    width: 900px;
+    height: 192px;
+
+    .balandd{
+        display: flex;
+        align-items: center;
+
+    }
+}
+.pass{
+    margin-top: 20px;
+    
+
+}
+.youtube{
+    border-radius: 5px;
+    border: solid gray;
+    width: 900px;
+    height: 192px;
+    background: #27272A;
+}
+.apple{
+     border-radius: 5px;
+    border: solid gray;
+    width: 900px;
+    height: 192px;
+}
