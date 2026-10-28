@@ -113,6 +113,7 @@ main{
     gap: 30px;
 }
 .google{
+    margin-top: 67px;
     
     border-radius: 5px;
     border: solid gray;
@@ -142,4 +143,15 @@ main{
     border: solid gray;
     width: 900px;
     height: 192px;
+}
+.orvchi{
+    display: flex;
+
+    gap: 50px;
+}
+.sec_text{
+    color: white;
+}
+.div1{
+    display: flex;
 }
